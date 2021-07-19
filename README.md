@@ -1,4 +1,6 @@
-## AWS ML Daily Notes
+## AWS Machine Learning Foundations - Daily Notes
+
+![](udacity-aws-ml-scholarship.PNG)
 
 This is a daily diary to keep me focussed and moving on my study plan.
 
