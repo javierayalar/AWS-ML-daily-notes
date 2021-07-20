@@ -18,3 +18,6 @@ This is a daily diary to keep me focussed and moving on my study plan.
 
 #### Day-4 (2021-07-19)
 - Quiz 11 (Model Training) completed.
+- Quiz 13 (Model Evaluation) completed.
+- Quiz 15 (Model Inference) completed.
+- Quiz 18 (Example One: House Price Prediction) completed.
