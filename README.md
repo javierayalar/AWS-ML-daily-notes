@@ -21,3 +21,6 @@ This is a daily diary to keep me focussed and moving on my study plan.
 - Quiz 13 (Model Evaluation) completed.
 - Quiz 15 (Model Inference) completed.
 - Quiz 18 (Example One: House Price Prediction) completed.
+
+#### Day-5 (2021-07-20)
+- Quiz 20 (Example Two: Book Genre Exploration) completed.
