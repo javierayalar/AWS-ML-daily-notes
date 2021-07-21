@@ -24,3 +24,7 @@ This is a daily diary to keep me focussed and moving on my study plan.
 
 #### Day-5 (2021-07-20)
 - Quiz 20 (Example Two: Book Genre Exploration) completed.
+- Quiz 22 (Example Three: Spill Detection from Video) completed.
+- Quiz 23 (Final Quiz) completed.
+- Lesson 2 completed.
+- Starting lesson 3.
