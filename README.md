@@ -31,4 +31,6 @@ This is a daily diary to keep me focussed and moving on my study plan.
 
 #### Day-6 (2021-07-21)
 - Lesson 3, "Computer Vision and Its Applications" completed.
+
+#### Day-7 (2021-07-22)
 - Quiz 7 (Computer Vision) completed.
