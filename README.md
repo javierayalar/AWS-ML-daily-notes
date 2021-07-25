@@ -34,3 +34,6 @@ This is a daily diary to keep me focussed and moving on my study plan.
 
 #### Day-7 (2021-07-22)
 - Quiz 7 (Computer Vision) completed.
+
+#### Day-8 (2021-07-24)
+- Quiz 11 (Reinforcement Learning) completed.
