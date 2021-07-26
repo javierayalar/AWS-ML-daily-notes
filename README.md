@@ -37,3 +37,6 @@ This is a daily diary to keep me focussed and moving on my study plan.
 
 #### Day-8 (2021-07-24)
 - Quiz 11 (Reinforcement Learning) completed.
+
+#### Day-9 (2021-07-25)
+- Quiz 18 (Generative AI) completed.
