@@ -42,4 +42,4 @@ This is a daily diary to keep me focussed and moving on my study plan.
 - Quiz 18 (Generative AI) completed.
 
 #### Day-10 (2021-07-26)
-- Lesson 3 completed.
+- Lesson 3 completed
