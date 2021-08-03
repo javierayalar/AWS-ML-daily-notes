@@ -47,5 +47,5 @@ This is a daily diary to keep me focussed and moving on my study plan.
 #### Day-11 (2021-08-02)
 - Starting lesson 4.
 
-#### Day-11 (2021-08-03)
+#### Day-12 (2021-08-03)
 - Quiz 5 (Clean Code) completed.
