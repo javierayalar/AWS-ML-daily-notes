@@ -48,4 +48,11 @@ This is a daily diary to keep me focussed and moving on my study plan.
 - Starting lesson 4.
 
 #### Day-12 (2021-08-03)
-- Quiz 5 (Clean Code) completed__
+- Quiz 5 (Clean Code) completed.
+
+#### Day-13 (2021-08-08)
+- Exercise 11 (Optimizing – Common books) completed.
+
+#### Day-14 (2021-08-09)
+- Quiz 19 (Documentation) completed.
+- Lesson 4 completed.
