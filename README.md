@@ -55,4 +55,4 @@ This is a daily diary to keep me focussed and moving on my study plan.
 
 #### Day-14 (2021-08-09)
 - Quiz 19 (Documentation) completed.
-- Lesson 4 completed..
+- Lesson 4 completed-
